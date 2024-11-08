@@ -1,0 +1,20 @@
+**Drawing Tablet Software:**
+Drawing Commands: Users can navigate the drawing pointer in multiple directions—forward, backward, right, and left—and rotate it to create their artwork.
+
+Color Selection: The software offers a palette of ten vibrant colors, allowing users to enhance their drawings.
+
+Shape Drawing: Users can create different shapes such as squares, rectangles, and circles, with options to customize size, position, color, and line width.
+
+Pen Control: The software features a pen up/pen down option, enabling users to determine when the pointer should draw, facilitating detailed designs.
+
+Pointer Thickness Adjustment: Users can modify the line thickness to add variation and depth to their artwork.
+
+Programming Language: This application is fully developed in C++.
+
+Graphical User Interface (GUI): The interface is straightforward, requiring users to input commands via text to perform actions.
+
+Drawing Functions: The application utilizes modified function templates to implement drawing operations for lines, circles, and more on the canvas.
+
+Error Management: The software includes robust error handling to address user input mistakes, providing clear feedback to assist users.
+
+
